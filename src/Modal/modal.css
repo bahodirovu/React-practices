@@ -1,0 +1,24 @@
+.show {
+  opacity: 1;
+  visibility: visible;
+}
+.hide {
+  opacity: 1;
+  visibility: hidden;
+}
+.poppup {
+  width: 300px;
+  height: 300px;
+  background: #c8c8fa;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-top: 1rem;
+}
+.modal_title button {
+  position: relative;
+  left: 130px;
+  top: -30px;
+  border: none;
+  background: #c8c8fa;
+  font-weight: 600;
+}
